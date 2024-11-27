@@ -1,0 +1,16 @@
+h5 {
+    font-weight: 500;
+}
+
+#cities_title {
+    color: purple;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: transparent;
+}
+
+.card_title{
+    background-color: transparent;
+    color: inherit
+}
+
